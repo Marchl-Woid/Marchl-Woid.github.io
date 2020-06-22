@@ -18,8 +18,8 @@ Das Sprachassistenzsystem Siri soll besser und unauffälliger in das Betriebssys
  * Item 2b 
  * Item 2a
  * Item 2b
-
-
+ 
 As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
+
